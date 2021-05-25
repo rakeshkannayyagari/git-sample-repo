@@ -6,3 +6,6 @@ git commit * -m "Comment"-->* refers to all files chanes are done
 git diff <File name>
 git log <File name>
 git push -u origin main
+git status
+git init
+git log
