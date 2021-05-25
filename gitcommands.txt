@@ -2,3 +2,5 @@ git config --global user.email "rakeshgupth91@gmail.com"
 git config --global user.name "Rakesh"
 git add <File name>
 git commit -m "File changes"
+git diff <File name>
+git log <File name>
